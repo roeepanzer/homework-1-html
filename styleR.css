@@ -1,0 +1,56 @@
+#me {
+	width:20%;
+	margin-left:5%;
+}
+#imgAdi img{
+	width: 20%;
+	margin-left:10%;
+	margin-top:5%;
+}
+
+#imgGiv img{
+	width: 20%;
+	margin-left:20%;
+	margin-top:5%;
+}
+
+#imgLiro img{
+	width: 20%;
+	margin-left:10%;
+	margin-top:5%;
+}
+
+#imgLiza img{
+	width:40%;
+	margin-left:10%;
+	margin-top:5%;
+}
+
+#contactInfo {
+	text-align:center;
+	margin-top:5%;
+	margin-left:40%;
+	margin-right:40%;
+	background-color:#FCE293;
+}
+
+#contact:link, #contact:visited {
+	color:#B029D1;
+}
+
+#contact:hover {
+	color:#0637C6;
+}
+
+#galLink, #contactLink, #back{
+	margin-left:10%;
+	background-color:#AEFFFF;
+	color:black;
+	padding:15px 30px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#galLink:hover, #contactLink:hover, #back:hover {
+	background-color:1FFEFE;
+}
